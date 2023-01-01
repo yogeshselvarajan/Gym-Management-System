@@ -19,7 +19,8 @@
 3) Download zip.
 4) Extract.
 5) Open eclipse or any IDE and Import project.
-6) Run welcome.java.
+6) Run Login/Login.java.
+7) Login with the suitable credentials (Refer the Database Tables for the login credentials)
 
 
 # 4.Objectives of the project:
