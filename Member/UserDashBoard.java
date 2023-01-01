@@ -135,7 +135,7 @@ public class UserDashBoard
         centerLabel3.setFont(new Font("Serif", Font.BOLD, 22));
         f.add(centerLabel3);
 
-        JLabel centerLabel4 = new JLabel("noreplytest.gymvale@gmail.com");
+        JLabel centerLabel4 = new JLabel("teamgymvale@gmail.com");
         centerLabel4.setBounds(650, 290, 500, 30);
         centerLabel4.setFont(new Font("Serif", Font.BOLD, 22));
         f.add(centerLabel4);
