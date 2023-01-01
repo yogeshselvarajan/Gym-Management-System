@@ -9,9 +9,9 @@ import java.util.Properties;
 
 public class Mailer {
 
-    static final String User_Email = "noreplytest.gymvale@gmail.com"; //your email
-    static final String Password = "GymVale8068@"; // your email password
-    static final String Sender = "noreplytest.gymvale@gmail.com"; // Insert Your email again
+    static final String User_Email = "teamgymvale@gmail.com"; //your email
+    static final String Password = "rvbbcpoeyzmphufp"; // your email password
+    static final String Sender = "teamgymvale@gmail.com"; // Insert Your email again
     // Insert Receiver's Email
     final String Email_Subject = "Gym Vale - Forgot Username"; // Insert Email Subject
 
